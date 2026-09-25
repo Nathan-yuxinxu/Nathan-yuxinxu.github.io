@@ -34,3 +34,8 @@ Deploy-ready static academic website for **Nathan-yuxinxu.github.io**.
 - A compact Chinese / English switch is automatically shown at the top-right of the navigation.
 - The selected language is remembered across pages using browser local storage.
 - Formal publication titles, author names, journal names, software names, and email addresses remain in their official form.
+
+## V5 update
+- Added four silver-coating research figures to the first Research project.
+- Figures preserve full content in thumbnails and remain clickable for full-resolution viewing.
+- Added English/Chinese captions and alt text for the new figures.

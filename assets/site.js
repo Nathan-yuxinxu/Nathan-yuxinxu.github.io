@@ -147,7 +147,11 @@
   "Northeast Agricultural University · Sep. 2021, Sep. 2022, Sep. 2023": "东北农业大学 · 2021年9月、2022年9月、2023年9月",
   "16th National College Student Competition on Energy Conservation, Emission Reduction, Social Practice, and Technology · Jun. 2023": "第十六届全国大学生节能减排社会实践与科技竞赛 · 2023年6月",
   "Second Prize": "二等奖",
-  "10th National College Student Competition on Agricultural Building, Environment, and Energy Engineering · Oct. 2022": "第十届全国大学生农业建筑环境与能源工程竞赛 · 2022年10月"
+  "10th National College Student Competition on Agricultural Building, Environment, and Energy Engineering · Oct. 2022": "第十届全国大学生农业建筑环境与能源工程竞赛 · 2022年10月",
+  "Wear-life comparison for silver coatings on GCr15 and In718 substrates across different surface-roughness levels.": "GCr15 与 In718 基材银涂层在不同表面粗糙度条件下的磨损寿命对比。",
+  "Wear-depth and wear-width comparison for GCr15 and In718 under different surface-roughness conditions.": "GCr15 与 In718 在不同表面粗糙度条件下的磨损深度与磨痕宽度对比。",
+  "Effect of normal load on friction evolution and silver-coating wear life.": "不同法向载荷对摩擦演化及银涂层磨损寿命的影响。",
+  "SEM and elemental-mapping analysis used to compare load-dependent coating degradation and substrate exposure.": "通过 SEM 与元素面分布分析，对比不同载荷下银涂层退化与基材暴露特征。"
 };
   const titleTranslations = {
   "Yuxin Xu | Academic Homepage": "Yuxin Xu | 个人学术主页",
@@ -167,7 +171,11 @@
   "Mathematical model of advanced threaded connections": "先进螺纹连接数学模型",
   "Parametric finite element model": "参数化有限元模型",
   "Stress concentration relief and stiffness improvement": "应力集中缓解与刚度提升",
-  "Torque-angle method versus torque method": "扭矩—转角法与扭矩法对比"
+  "Torque-angle method versus torque method": "扭矩—转角法与扭矩法对比",
+  "Silver-coating wear-life comparison across surface roughness": "不同表面粗糙度下银涂层磨损寿命对比",
+  "Wear depth and width comparison across surface roughness": "不同表面粗糙度下磨损深度与磨痕宽度对比",
+  "Effect of normal load on silver-coating wear life": "法向载荷对银涂层磨损寿命的影响",
+  "SEM analysis of load-dependent silver-coating degradation": "不同载荷下银涂层退化的 SEM 分析"
 };
   const LANG_KEY = 'yx-academic-site-language';
   const originalText = new WeakMap();
