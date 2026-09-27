@@ -41,3 +41,7 @@ Deploy-ready static academic website for **Nathan-yuxinxu.github.io**.
 - Added English/Chinese captions and alt text for the new figures.
 
 - CV page now includes International academic visits in the UK and English Lounge co-host / community engagement sections with photo galleries.
+
+
+## V7 update
+Added three new hysteresis-project figures: theoretical mechanics model, nonparallelism finite-element modeling, and interface-friction-coefficient experiment.

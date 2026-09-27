@@ -209,6 +209,18 @@
   ,"English Lounge anniversary gathering": "English Lounge 周年活动合影"
 
 };
+
+Object.assign(translations, {
+  "Mechanical model and theoretical mechanism used to interpret nonlinear hysteresis and interface evolution.": "用于解释非线性迟滞行为与界面演化的力学模型和理论机理。",
+  "Finite-element modeling used to investigate the effect of bearing-surface nonparallelism on joint hysteresis.": "用于研究承压面不平行度对连接界面迟滞行为影响的有限元建模。",
+  "Experimental procedure used to obtain the interface friction coefficient for model calibration and validation.": "用于获取界面摩擦系数并进行模型标定与验证的实验方法。"
+});
+Object.assign(altTranslations, {
+  "Mechanical model and theoretical mechanism of bolted-joint hysteresis": "螺栓连接迟滞行为的力学模型与理论机理",
+  "Finite-element modeling under bearing-surface nonparallelism": "承压面不平行度条件下的有限元建模",
+  "Experiment for obtaining interface friction coefficient": "界面摩擦系数获取实验"
+});
+
   const LANG_KEY = 'yx-academic-site-language';
   const originalText = new WeakMap();
   const originalAlt = new WeakMap();
