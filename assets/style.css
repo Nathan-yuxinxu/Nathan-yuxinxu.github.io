@@ -123,3 +123,9 @@ h3{font-size:1.2rem;margin:0 0 7px}
 html[lang="zh-CN"] body{font-family:Inter,"PingFang SC","Microsoft YaHei","Noto Sans CJK SC",ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}
 html[lang="zh-CN"] h1,html[lang="zh-CN"] h2,html[lang="zh-CN"] h3,html[lang="zh-CN"] .brand,html[lang="zh-CN"] .item-title,html[lang="zh-CN"] .stat strong{font-family:"Songti SC","Noto Serif CJK SC",Georgia,"Times New Roman",serif}
 @media (max-width:560px){.lang-toggle{padding:4px 9px;font-size:.75rem}}
+
+.cv-story{padding:4px 0 18px}
+.cv-story>p{max-width:900px;color:#59616c;margin:8px 0 18px}
+.cv-gallery{margin-top:16px}
+.cv-gallery img{height:240px}
+@media (max-width:560px){.cv-gallery img{height:220px}}

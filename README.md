@@ -39,3 +39,5 @@ Deploy-ready static academic website for **Nathan-yuxinxu.github.io**.
 - Added four silver-coating research figures to the first Research project.
 - Figures preserve full content in thumbnails and remain clickable for full-resolution viewing.
 - Added English/Chinese captions and alt text for the new figures.
+
+- CV page now includes International academic visits in the UK and English Lounge co-host / community engagement sections with photo galleries.

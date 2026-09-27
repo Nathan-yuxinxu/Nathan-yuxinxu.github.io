@@ -151,7 +151,26 @@
   "Wear-life comparison for silver coatings on GCr15 and In718 substrates across different surface-roughness levels.": "GCr15 与 In718 基材银涂层在不同表面粗糙度条件下的磨损寿命对比。",
   "Wear-depth and wear-width comparison for GCr15 and In718 under different surface-roughness conditions.": "GCr15 与 In718 在不同表面粗糙度条件下的磨损深度与磨痕宽度对比。",
   "Effect of normal load on friction evolution and silver-coating wear life.": "不同法向载荷对摩擦演化及银涂层磨损寿命的影响。",
-  "SEM and elemental-mapping analysis used to compare load-dependent coating degradation and substrate exposure.": "通过 SEM 与元素面分布分析，对比不同载荷下银涂层退化与基材暴露特征。"
+  "SEM and elemental-mapping analysis used to compare load-dependent coating degradation and substrate exposure.": "通过 SEM 与元素面分布分析，对比不同载荷下银涂层退化与基材暴露特征。"  ,"International academic experience": "国际学术交流经历"
+  ,"Academic Visits & Exchange in the United Kingdom": "英国高校访问与学术交流"
+  ,"Represented Dalian University of Technology during academic visits and exchange activities in the United Kingdom, including Imperial College London, the University of Oxford, the University of Cambridge, the University of Bristol, and Cardiff University. These visits broadened my exposure to international research environments and strengthened my interest in pursuing doctoral study overseas.": "代表大连理工大学赴英国开展高校访问与交流，先后到访帝国理工学院、牛津大学、剑桥大学、布里斯托大学和卡迪夫大学。这些经历使我更直接地了解国际科研环境，并进一步坚定了海外博士阶段继续深造的计划。"
+  ,"Academic visit to Imperial College London.": "访问帝国理工学院。"
+  ,"Academic visit to the University of Oxford.": "访问牛津大学。"
+  ,"Academic visit to the University of Cambridge.": "访问剑桥大学。"
+  ,"Academic visit to the University of Bristol.": "访问布里斯托大学。"
+  ,"Academic visit to Cardiff University.": "访问卡迪夫大学。"
+  ,"Community engagement & leadership": "社会参与与组织经历"
+  ,"Co-host, English Lounge · Dalian": "English Lounge 英语角联合主持人 · 大连"
+  ,"I currently serve as a co-host of English Lounge in Dalian, helping a friend organize and sustain a recurring English-speaking community through conversation sessions, social gatherings, and anniversary events. English Lounge activities have been covered multiple times by Dalian TV, Peninsula Morning Post, China News Service, and other media outlets.": "目前担任大连 English Lounge 英语角的联合主持人，协助朋友共同组织并持续运营这一英语交流社群，参与策划和主持英语对话、社交聚会及周年活动。English Lounge 的相关活动曾多次获得大连电视台、半岛晨报、中新网等媒体报道。"
+  ,"English Lounge community gathering in Dalian.": "English Lounge 大连日常社群活动。"
+  ,"Small-group English conversation and social exchange.": "小组英语交流与社交活动。"
+  ,"English Lounge discussion activity.": "English Lounge 日常讨论活动。"
+  ,"Outdoor English Lounge social gathering.": "English Lounge 户外社交活动。"
+  ,"English Lounge after-party group photo.": "English Lounge 活动后合影。"
+  ,"English Lounge anniversary celebration.": "English Lounge 周年纪念活动。"
+  ,"English Lounge anniversary group gathering.": "English Lounge 周年纪念合影。"
+  ,"English Lounge anniversary gathering.": "English Lounge 周年活动合影。"
+
 };
   const titleTranslations = {
   "Yuxin Xu | Academic Homepage": "Yuxin Xu | 个人学术主页",
@@ -175,7 +194,20 @@
   "Silver-coating wear-life comparison across surface roughness": "不同表面粗糙度下银涂层磨损寿命对比",
   "Wear depth and width comparison across surface roughness": "不同表面粗糙度下磨损深度与磨痕宽度对比",
   "Effect of normal load on silver-coating wear life": "法向载荷对银涂层磨损寿命的影响",
-  "SEM analysis of load-dependent silver-coating degradation": "不同载荷下银涂层退化的 SEM 分析"
+  "SEM analysis of load-dependent silver-coating degradation": "不同载荷下银涂层退化的 SEM 分析"  ,"Yuxin Xu during an academic visit to Imperial College London": "Yuxin Xu 访问帝国理工学院"
+  ,"Yuxin Xu during an academic visit to the University of Oxford": "Yuxin Xu 访问牛津大学"
+  ,"Yuxin Xu during an academic visit to the University of Cambridge": "Yuxin Xu 访问剑桥大学"
+  ,"Yuxin Xu during an academic visit to the University of Bristol": "Yuxin Xu 访问布里斯托大学"
+  ,"Yuxin Xu during an academic visit to Cardiff University": "Yuxin Xu 访问卡迪夫大学"
+  ,"English Lounge community gathering in Dalian": "English Lounge 大连社群活动"
+  ,"English Lounge small-group conversation session": "English Lounge 小组交流活动"
+  ,"English Lounge discussion activity": "English Lounge 讨论活动"
+  ,"English Lounge outdoor social gathering": "English Lounge 户外社交活动"
+  ,"English Lounge after-party group photo": "English Lounge 活动后合影"
+  ,"English Lounge anniversary celebration": "English Lounge 周年纪念活动"
+  ,"English Lounge anniversary group gathering": "English Lounge 周年纪念合影"
+  ,"English Lounge anniversary gathering": "English Lounge 周年活动合影"
+
 };
   const LANG_KEY = 'yx-academic-site-language';
   const originalText = new WeakMap();
