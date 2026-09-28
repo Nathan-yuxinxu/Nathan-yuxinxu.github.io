@@ -49,3 +49,8 @@ Added three new hysteresis-project figures: theoretical mechanics model, nonpara
 
 ## V8 update
 Updated the CV page with expanded UK academic-visit photos, refreshed English Lounge photos, and sponsor information for HSBC Hong Kong and Tim Hortons.
+
+
+## V9 update
+- Added an explicit Research Interests / 研究兴趣 label above the homepage research-interest tags.
+- Simplified the English Lounge sponsor wording to “Tim Hortons” without the Chinese brand-name note.

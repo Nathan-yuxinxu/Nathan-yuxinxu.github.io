@@ -2,6 +2,7 @@
   const translations = {
   "About": "关于",
   "Research": "研究",
+  "Research Interests": "研究兴趣",
   "Publications": "论文",
   "CV": "简历",
   "Prospective PhD Applicant · Mechanical Engineering": "博士申请者 · 机械工程",
@@ -229,7 +230,7 @@ Object.assign(translations, {
   "Academic exchange at the University of Oxford.": "在牛津大学开展交流。",
   "Group exchange during the visit to the University of Bristol.": "访问布里斯托大学期间的交流合影。",
   "Welcome session at Cardiff University.": "卡迪夫大学欢迎交流活动。",
-  "I currently serve as a co-host of English Lounge in Dalian, helping a friend organize and sustain a recurring English-speaking community through conversation sessions, social gatherings, anniversary events, and post-event networking. English Lounge events have received sponsorship from HSBC Hong Kong and the global coffee chain Tim Hortons (Tims / 天好咖啡), and activities have been covered multiple times by Dalian TV, Peninsula Morning Post, China News Service, and other media outlets. This experience has strengthened my cross-cultural communication, event coordination, and community-building skills.": "目前担任大连 English Lounge 英语角的联合主持人，协助朋友共同组织并持续运营这一英语交流社群，参与英语对话、社交聚会、周年活动及活动后的社群交流。English Lounge 的活动曾获得 HSBC Hong Kong（香港汇丰银行）和全球连锁咖啡品牌 Tim Hortons（Tims / 天好咖啡）的赞助，并多次获得大连电视台、半岛晨报、中新网等媒体报道。这段经历提升了我的跨文化沟通、活动组织与社群建设能力。",
+  "I currently serve as a co-host of English Lounge in Dalian, helping a friend organize and sustain a recurring English-speaking community through conversation sessions, social gatherings, anniversary events, and post-event networking. English Lounge events have received sponsorship from HSBC Hong Kong and the global coffee chain Tim Hortons, and activities have been covered multiple times by Dalian TV, Peninsula Morning Post, China News Service, and other media outlets. This experience has strengthened my cross-cultural communication, event coordination, and community-building skills.": "目前担任大连 English Lounge 英语角的联合主持人，协助朋友共同组织并持续运营这一英语交流社群，参与英语对话、社交聚会、周年活动及活动后的社群交流。English Lounge 的活动曾获得 HSBC Hong Kong（香港汇丰银行）和全球连锁咖啡品牌 Tim Hortons 的赞助，并多次获得大连电视台、半岛晨报、中新网等媒体报道。这段经历提升了我的跨文化沟通、活动组织与社群建设能力。",
   "English Lounge social gathering and community networking.": "English Lounge 社交活动与社群交流。",
   "Post-event dinner and informal community networking.": "活动后聚餐与非正式社群交流。"
 });

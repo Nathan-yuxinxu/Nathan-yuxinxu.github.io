@@ -129,3 +129,7 @@ html[lang="zh-CN"] h1,html[lang="zh-CN"] h2,html[lang="zh-CN"] h3,html[lang="zh-
 .cv-gallery{margin-top:16px}
 .cv-gallery img{height:240px}
 @media (max-width:560px){.cv-gallery img{height:220px}}
+
+.research-interests{margin-top:24px}
+.interest-label{font-family:Georgia,"Times New Roman",serif;font-size:1rem;font-weight:700;color:#111827;margin-bottom:8px}
+.research-interests .meta-row{margin-top:0}
