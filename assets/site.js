@@ -221,6 +221,28 @@ Object.assign(altTranslations, {
   "Experiment for obtaining interface friction coefficient": "界面摩擦系数获取实验"
 });
 
+
+Object.assign(translations, {
+  "Represented Dalian University of Technology during academic visits and exchange activities across the United Kingdom, including Imperial College London, University College London (UCL), the University of Oxford, the University of Cambridge, the University of Bristol, and Cardiff University. Through campus visits, welcome sessions, and academic exchange, I gained broader exposure to international research environments and graduate education in the UK, further strengthening my motivation to pursue doctoral training overseas.": "代表大连理工大学赴英国开展高校访问与学术交流，先后到访帝国理工学院、伦敦大学学院（UCL）、牛津大学、剑桥大学、布里斯托大学和卡迪夫大学。通过校园访问、欢迎交流及学术互动，我进一步了解了英国高校的科研环境与研究生教育，也更加坚定了赴海外攻读博士学位的计划。",
+  "Campus visit and academic exchange at Imperial College London.": "帝国理工学院校园参访与学术交流。",
+  "Academic visit to University College London (UCL).": "访问伦敦大学学院（UCL）。",
+  "Academic exchange at the University of Oxford.": "在牛津大学开展交流。",
+  "Group exchange during the visit to the University of Bristol.": "访问布里斯托大学期间的交流合影。",
+  "Welcome session at Cardiff University.": "卡迪夫大学欢迎交流活动。",
+  "I currently serve as a co-host of English Lounge in Dalian, helping a friend organize and sustain a recurring English-speaking community through conversation sessions, social gatherings, anniversary events, and post-event networking. English Lounge events have received sponsorship from HSBC Hong Kong and the global coffee chain Tim Hortons (Tims / 天好咖啡), and activities have been covered multiple times by Dalian TV, Peninsula Morning Post, China News Service, and other media outlets. This experience has strengthened my cross-cultural communication, event coordination, and community-building skills.": "目前担任大连 English Lounge 英语角的联合主持人，协助朋友共同组织并持续运营这一英语交流社群，参与英语对话、社交聚会、周年活动及活动后的社群交流。English Lounge 的活动曾获得 HSBC Hong Kong（香港汇丰银行）和全球连锁咖啡品牌 Tim Hortons（Tims / 天好咖啡）的赞助，并多次获得大连电视台、半岛晨报、中新网等媒体报道。这段经历提升了我的跨文化沟通、活动组织与社群建设能力。",
+  "English Lounge social gathering and community networking.": "English Lounge 社交活动与社群交流。",
+  "Post-event dinner and informal community networking.": "活动后聚餐与非正式社群交流。"
+});
+Object.assign(altTranslations, {
+  "Yuxin Xu visiting Imperial College London": "Yuxin Xu 参访帝国理工学院",
+  "Yuxin Xu during an academic visit to University College London": "Yuxin Xu 访问伦敦大学学院（UCL）",
+  "Yuxin Xu during academic exchange at the University of Oxford": "Yuxin Xu 在牛津大学交流",
+  "Group photo during an academic visit to the University of Bristol": "访问布里斯托大学期间的交流合影",
+  "Welcome session during an academic visit to Cardiff University": "卡迪夫大学欢迎交流活动",
+  "English Lounge social gathering": "English Lounge 社交活动",
+  "English Lounge post-event dinner": "English Lounge 活动后聚餐"
+});
+
   const LANG_KEY = 'yx-academic-site-language';
   const originalText = new WeakMap();
   const originalAlt = new WeakMap();

@@ -45,3 +45,7 @@ Deploy-ready static academic website for **Nathan-yuxinxu.github.io**.
 
 ## V7 update
 Added three new hysteresis-project figures: theoretical mechanics model, nonparallelism finite-element modeling, and interface-friction-coefficient experiment.
+
+
+## V8 update
+Updated the CV page with expanded UK academic-visit photos, refreshed English Lounge photos, and sponsor information for HSBC Hong Kong and Tim Hortons.
